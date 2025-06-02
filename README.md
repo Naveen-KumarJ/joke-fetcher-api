@@ -62,7 +62,7 @@ npm start
 ```
 Or manually:
 ```bash
-node app.js
+node server.js
 Server runs at:
 ```
 ```bash
